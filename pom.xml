@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>springboot-images</finalName>
+		<finalName>docker-cicd-github</finalName>
 	</build>
 	<repositories>
 		<repository>
