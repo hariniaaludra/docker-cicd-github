@@ -11,7 +11,7 @@ public class DockerCicdGithubApplication {
 
 	@GetMapping("/docker")
 	public String mainMethod(){
-		return "Hello Docker-Github Actions CI/CD !....";
+		return "Hello Docker-GitHub Actions CI/CD !....";
 	}
 
 	public static void main(String[] args) {
